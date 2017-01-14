@@ -1,0 +1,5 @@
+C:\Users\youkan\Documents\PSoC Creator\Workspace02\Design01.cydsn\Design01.cyprj|7715eb25-0530-4d37-8f2c-0817a83bd9a4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d5aaa756-6b08-4e05-b2fc-b63bc0b054a4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|50ccc57c-3534-4583-8c33-cd36fc8122e2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f48ce7a3-fbd1-449b-a81e-6352778e8aea
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a4e39f7f-b458-480d-bb44-bed8a6d8ed53
